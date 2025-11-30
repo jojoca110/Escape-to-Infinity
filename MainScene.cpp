@@ -4,7 +4,7 @@ void MainScene::Initialize() {
 	ModelLoader* loader = new ModelLoader();
 	this->player = new Model();
 	loader->SetScale(.5f);
-	loader->LoadModel("../Recuperacion_V2/Models/Ships/Spaceship1.obj", "../Recuperacion_V2/Materials/Ships/Spaceship1.mtl");
+	loader->LoadModel("Models/Ships/Spaceship1.obj", "Materials/Ships/Spaceship1.mtl");
 	*this->player = loader->GetModel();
 	this->player->SetPosition(Vector3D(4.0f, 2.0f, 50.0f));
 	this->player->SetSpeed(Vector3D(0, 0, 0));
@@ -29,7 +29,7 @@ void MainScene::Initialize() {
 	}
 	
 	loader->SetScale(1.0f);
-	loader->LoadModel("../Recuperacion_V2/Models/PowerUps/Heart.obj", "../Recuperacion_V2/Materials/PowerUps/Heart.mtl");
+	loader->LoadModel("Models/PowerUps/Heart.obj", "Materials/PowerUps/Heart.mtl");
 	Model* vidas = new Model();
 	*vidas = loader->GetModel();
 	vidas->SetPosition(Vector3D(2, 10, this->player->GetPosition().GetZ() - 5));
@@ -57,7 +57,7 @@ void MainScene::Initialize() {
 
 
 	loader2->SetScale(1.0f);
-	loader2->LoadModel("../Recuperacion_V2/Models/PowerUps/Star.obj", "../Recuperacion_V2/Materials/PowerUps/Star.mtl");
+	loader2->LoadModel("Models/PowerUps/Star.obj", "Materials/PowerUps/Star.mtl");
 	Model* star = new Model();
 	*star = loader2->GetModel();
 	star->SetPosition(Vector3D(2, 5, this->player->GetPosition().GetZ() - 5));
@@ -139,7 +139,7 @@ void MainScene::ProceduralGeneratedLane(const int& diff) {
 					if (doble) {	//doble aparción (arriba)
 
 						if (pVida < vida) {
-							loader->LoadModel("../Recuperacion_V2/Models/PowerUps/Heart.obj", "../Recuperacion_V2/Materials/PowerUps/Heart.mtl");
+							loader->LoadModel("Models/PowerUps/Heart.obj", "Materials/PowerUps/Heart.mtl");
 							Model* Heart = new Model();
 							*Heart = loader->GetModel();
 							Heart->SetPosition(Vector3D(j + dist2 + 4, 4, this->GetNewLane() - 50));
@@ -168,7 +168,7 @@ void MainScene::ProceduralGeneratedLane(const int& diff) {
 					obstacle->SetPosition(Vector3D(j + dist2 + 4, 4, this->GetNewLane() - 50));
 					if (doble) {	//doble aparición (abajo)
 						if (pVida < 3) {
-							loader->LoadModel("../Recuperacion_V2/Models/PowerUps/Heart.obj", "../Recuperacion_V2/Materials/PowerUps/Heart.mtl");
+							loader->LoadModel("Models/PowerUps/Heart.obj", "Materials/PowerUps/Heart.mtl");
 							Model* Heart = new Model();
 							*Heart = loader->GetModel();
 							Heart->SetPosition(Vector3D(j + dist2 + 4, 2, this->GetNewLane() - 50));
@@ -203,7 +203,7 @@ void MainScene::ProceduralGeneratedLane(const int& diff) {
 			}
 			else {
 				int altAleatoria = rand() % 100;
-				loader->LoadModel("../Recuperacion_V2/Models/PowerUps/Star.obj", "../Recuperacion_V2/Materials/PowerUps/star.mtl");
+				loader->LoadModel("Models/PowerUps/Star.obj", "Materials/PowerUps/star.mtl");
 				int dist3 = 0;
 				if (altAleatoria < 50) {	//Altura (abajo)
 					for (int k = 0; k < 4; k++) {

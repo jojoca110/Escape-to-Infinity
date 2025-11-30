@@ -7,7 +7,7 @@ void MainMenu::Generate() {
 
 
 	ml->SetScale(.5f);
-	ml->LoadModel("../Recuperacion_V2/Models/Ships/Spaceship1.obj", "../Recuperacion_V2/Materials/Ships/Spaceship1.mtl");
+	ml->LoadModel("Models/Ships/Spaceship1.obj", "Materials/Ships/Spaceship1.mtl");
 	*this->m = ml->GetModel();
 	this->m->SetOrientation(Vector3D(90, 180, 0));
 	this->m->SetPosition(Vector3D(4, 4.5, 50));
@@ -21,7 +21,7 @@ void MainMenu::Generate() {
 	double maxY = 30.0; // Límite superior en el eje Y
 
 	srand(static_cast<unsigned>(time(0)));
-	ml->LoadModel("../Recuperacion_V2/Models/PowerUps/Star.obj", "../Recuperacion_V2/Materials/PowerUps/Star.mtl");
+	ml->LoadModel("Models/PowerUps/Star.obj", "Materials/PowerUps/Star.mtl");
 	for (size_t i = 0; i < 30; i++)
 	{
 		double randomX = minX + static_cast<double>(rand()) / (RAND_MAX / (maxX - minX));
