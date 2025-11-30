@@ -1,0 +1,510 @@
+﻿  Camera.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Camera.cpp(4,72): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Camera.cpp(4,45): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Camera.cpp(4,18): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Camera.cpp(5,33): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Camera.cpp(6,33): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Camera.cpp(7,33): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Color.cpp
+  Contorno.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Contorno.cpp(10,10): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Contorno.cpp(18,10): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Cube.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cube.cpp(7,96): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cube.cpp(7,68): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cube.cpp(7,40): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cube.cpp(9,40): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cube.cpp(10,40): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cube.cpp(11,40): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Cuboid.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cuboid.cpp(4,95): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cuboid.cpp(4,67): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cuboid.cpp(4,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cuboid.cpp(6,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cuboid.cpp(7,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cuboid.cpp(8,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Cylinder.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cylinder.cpp(5,95): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cylinder.cpp(5,67): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cylinder.cpp(5,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cylinder.cpp(7,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cylinder.cpp(8,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Cylinder.cpp(9,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  FirstPersonCamera.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(28,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(29,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(31,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(32,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(4,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(5,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(6,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(7,84): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(7,51): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(7,18): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(17,21): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(18,21): warning C4244: 'inicializando': conversión de 'S' a 'float'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(77,18): warning C4244: 'argumento': conversión de 'int' a 'const float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.cpp(78,18): warning C4244: 'argumento': conversión de 'int' a 'const float'; posible pérdida de datos
+  Game.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Game.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(28,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(29,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(31,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(32,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Interfaz.h(41,32): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(44,36): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(45,51): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(47,40): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(48,63): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(50,51): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(51,86): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Game.cpp(171,29): warning C4244: 'argumento': conversión de 'const double' a 'const float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Game.cpp(172,46): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Game.cpp(175,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Game.cpp(182,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  GameOver.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(28,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(29,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(31,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(32,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\GameOver.cpp(90,8): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Interfaz.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Interfaz.h(41,32): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Interfaz.cpp(13,16): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Interfaz.cpp(21,13): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+  MainMenu.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(28,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(29,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(31,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(32,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+  MainScene.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(28,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(29,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(31,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(32,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Interfaz.h(41,32): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(44,36): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(45,51): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(47,40): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(48,63): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(50,51): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(51,86): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+  Model.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Model.cpp(39,96): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Model.cpp(39,68): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Model.cpp(39,40): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Model.cpp(41,40): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Model.cpp(42,40): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Model.cpp(43,40): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  ModelLoader.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(135,47): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(136,47): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(137,47): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(138,45): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(139,45): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(140,45): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(125,6): warning C4101: 'idxTexture0': variable local sin referencia
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(125,32): warning C4101: 'idxTexture2': variable local sin referencia
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(125,19): warning C4101: 'idxTexture1': variable local sin referencia
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(149,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(150,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(151,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(152,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(153,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\ModelLoader.cpp(154,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Programa_p3.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Game.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(28,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(29,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(31,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(32,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Interfaz.h(41,32): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(44,36): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(45,51): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(47,40): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(48,63): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(50,51): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\MainScene.h(51,86): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+  Scene.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(28,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(29,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(31,46): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\FirstPersonCamera.h(32,67): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+  Solid.cpp
+  Sphere.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Sphere.cpp(5,95): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Sphere.cpp(5,67): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Sphere.cpp(5,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Sphere.cpp(7,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Sphere.cpp(8,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Sphere.cpp(9,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Teapot.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Teapot.cpp(5,95): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Teapot.cpp(5,67): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Teapot.cpp(5,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Teapot.cpp(7,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Teapot.cpp(8,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Teapot.cpp(9,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Text.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.cpp(5,95): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.cpp(5,67): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Text.cpp(5,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Generando código...
+  Compilando...
+  Torus.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Torus.cpp(4,95): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Torus.cpp(4,67): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Torus.cpp(4,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Torus.cpp(6,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Torus.cpp(7,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Torus.cpp(8,39): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Triangle.cpp
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(8,78): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(8,55): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(8,32): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(9,75): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(9,53): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(9,31): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(12,78): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(12,55): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(12,32): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(13,75): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(13,53): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(13,31): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(16,78): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(16,55): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(16,32): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(17,75): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(17,53): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\Triangle.cpp(17,31): warning C4244: 'argumento': conversión de 'S' a 'GLfloat'; posible pérdida de datos
+          with
+          [
+              S=double
+          ]
+  Vector3D.cpp
+  Generando código...
+  Programa_p3.vcxproj -> C:\Users\joaqu\Documents\Diseño_y_Desarrollo_de_Videojuegos\Programacion Avanzada\Recuperacion_V2\x64\Debug\Programa_p3.exe
